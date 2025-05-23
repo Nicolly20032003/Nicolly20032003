@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right"  />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1EFF1B&center=true&vCenter=true&width=430&height=200&lines=Hi+There%2C+I'm+Nicolly+Beatryz%2C;a+software+developer+from+Brazil" alt="Typing SVG" /></a>
 
